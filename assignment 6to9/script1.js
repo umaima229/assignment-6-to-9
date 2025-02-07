@@ -8,7 +8,7 @@ document.write("After Subtraction ( - 3 ): " + (num - 3) + "<br>");
 document.write("After Multiplication ( * 2 ): " + (num * 2) + "<br>");
 document.write("After Division ( / 2 ): " + (num / 2) + "<br>");
 document.write("After Modulus ( % 3 ): " + (num % 3) + "<br>");
-
+// Question no 2 
  var a=2;
 var b=1;
 document.write("<h3>" + "Solving Complex Equation" + "</h3>");
@@ -54,7 +54,7 @@ document.write('The result is 3');
  // User se naam input lena
  
  
- 
+ // Question no 3 
  
  // Prompt the user to enter their name
 let userName = prompt("Enter your name:");
@@ -65,7 +65,7 @@ if (userName) {
 } else {
     alert("Hello! Welcome!");
 }
-
+// question no 5 
  // a) Take three subjects' names from the user
  let subject1 = prompt("Enter first subject name:");
  let subject2 = prompt("Enter second subject name:");
@@ -119,7 +119,7 @@ if (userName) {
  `);
 
 
-
+// question no 4 
 
  const number = 5;
  const limit = 20;
